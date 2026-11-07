@@ -69,6 +69,12 @@ The learning path follows a progressive roadmap of **35 classes**, combining the
 34. Class 34 — Inventories and Configuration
 35. Class 35 — Final Network Automation Project
 
+## Repository Structure
+
+**practice.py:** This is a practice script that will change as the course progresses. It will be used to upload short lessons or brief exercises.
+
+**select-class-exercises/:** Contains a set of randomly selected solved exercises from different classes. In these, a deeper exploration of the topic was made, applying it to exercises that, while fictional, could exist in real life. These exercises are more in-depth than those in practice.py.
+
 ## Learning Methodology
 
 The learning process is progressive, prioritizing conceptual understanding and the ability to solve problems independently.
